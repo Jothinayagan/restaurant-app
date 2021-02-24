@@ -1,0 +1,25 @@
+.jumbotron.backgd{
+background-image:url("/assets/cdlvao1dbyjz824oyfwihfompcidkdavlyt6z2frxbzowjhomulfn0ujpl7vb9br-.jpg");
+background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*card background*/
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: rgba(0, 255, 0, 0.7);
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+/*ratings tag*/
+.w3-tag.w3-black.styles{
+  float: right;
+  background-color: blanchedalmond
+}
